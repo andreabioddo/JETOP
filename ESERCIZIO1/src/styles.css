@@ -1,0 +1,30 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+
+body {
+    background-color:  #F4D4B8 !important;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar */
+app-navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+/* Mainpage */
+app-mainpage {
+    margin-top: 153px; /* Altezza del navbar */
+}
+
+/* Footer */
+app-footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}

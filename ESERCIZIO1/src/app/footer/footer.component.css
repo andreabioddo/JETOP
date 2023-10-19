@@ -1,0 +1,32 @@
+footer {
+    background-color: #49382EA6 !important;
+    height: 227px !important;
+    text-align: center;
+    color: #fff;
+    padding: 20px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.social-icons {
+    font-size: 30px;
+    margin: 10px;
+}
+
+.social-icons a {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-color: #fff; 
+    border-radius: 50%; 
+    line-height: 40px;
+    margin: 0 10px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.copyright {
+    font-size: 24px !important;
+    margin-top: 10px;
+}

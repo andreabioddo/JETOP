@@ -1,0 +1,32 @@
+.navbar {
+    font-family: 'Poppins', sans-serif;
+    size: 24px !important;
+}
+
+.small-nav {
+    width: 1418px;
+height: 64px;
+top: 52px;
+left: 251px;
+
+}
+
+.navbar .navbar-nav .nav-item .nav-link {
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.navbar-nav .nav-item {
+    margin-right: 10px !important;
+}
+  
+  .navbar-nav .nav-item:last-child {
+    margin-right: 0;
+  }
+
+
+.nav-link {
+    color: #1C1415
+}
+
+

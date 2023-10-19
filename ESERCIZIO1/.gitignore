@@ -1,0 +1,44 @@
+# Ignora i file generati dal comando "ng build"
+/dist
+
+# Ignora il file di configurazione di ambiente, spesso creato da "ng build"
+/src/environments/environment.ts
+/src/environments/environment.prod.ts
+
+# Ignora i moduli Node.js (solitamente contenuti in "node_modules")
+/node_modules
+
+# Ignora i file generati da editor e IDE
+*.iml
+*.log
+*.swp
+/.idea
+/.vscode
+
+# Ignora i file di configurazione specifici dell'editor
+*.sublime-project
+*.sublime-workspace
+/.vscode
+
+# Ignora i file di log
+npm-debug.log
+yarn-error.log
+
+# Ignora i file temporanei
+/coverage
+*.orig
+*.tmp
+*.bak
+*.swp
+*.db
+*.DS_Store
+*.log
+
+# Ignora il file di configurazione per il server di sviluppo
+angular.json
+
+# Ignora il file di configurazione per il file host
+src/environments/environment.ts
+
+# Ignora il file di configurazione per il file host (produzione)
+src/environments/environment.prod.ts

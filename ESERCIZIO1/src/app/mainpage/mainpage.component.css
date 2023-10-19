@@ -1,0 +1,65 @@
+.elem-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+
+.t1{
+
+font-family: 'Sofia Sans'!important;
+font-style: normal;
+font-weight: 900;
+font-size: 76px;
+line-height: 137%;
+/* or 104px */
+letter-spacing: -0.01em;
+
+color: #FFFFFF;
+
+
+}
+
+
+.t2 {
+font-family: 'Sofia Sans';
+font-style: normal;
+font-weight: 900;
+font-size: 52px;
+line-height: 115.5%;
+letter-spacing: -0.01em;
+color: #FFFFFF;
+}
+
+.t3{
+    /* Discover the Perfect Watch for Every Occasion and Elevate Your Style with Timeless Elegance and Precision Craftsmanship - watch */
+
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 46px;
+
+color: rgba(28, 20, 21, 0.8);
+
+
+}
+
+.t4{
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 70px;
+line-height: 137%;
+/* identical to box height, or 96px */
+letter-spacing: -0.01em;
+
+color: #FFFFFF;
+
+
+}
